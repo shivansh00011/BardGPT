@@ -1,2 +1,4 @@
 # BardGPT
-A compact, whimsical language model that speaks like Shakespeare! Generate sonnets, soliloquies, and poetic musings using the power of AI with an Elizabethan twist. Built as a mini ChatGPT tailored to the Bard's iconic style.
+BardGPT is a compact language model inspired by ChatGPT, designed to generate text in the style of William Shakespeare. It aims to produce sonnets, dialogues, and prose reminiscent of the Bard's works.
+
+
